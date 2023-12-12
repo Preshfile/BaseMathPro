@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\UNIK\\Pictures\\_perso\\29th August 2022\\IT CAREER JOUNEY\\C-Sharp_Projects\\BaseMath Pro\\BaseMathPro\\BaseMathPro\\BaseMathPro.csproj",
+      "projectUniqueName": "C:\\Users\\UNIK\\BaseMathPro\\BaseMathPro\\BaseMathPro\\BaseMathPro.csproj",
       "projectName": "BaseMathPro",
-      "projectPath": "C:\\Users\\UNIK\\Pictures\\_perso\\29th August 2022\\IT CAREER JOUNEY\\C-Sharp_Projects\\BaseMath Pro\\BaseMathPro\\BaseMathPro\\BaseMathPro.csproj",
+      "projectPath": "C:\\Users\\UNIK\\BaseMathPro\\BaseMathPro\\BaseMathPro\\BaseMathPro.csproj",
       "packagesPath": "C:\\Users\\UNIK\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\UNIK\\Pictures\\_perso\\29th August 2022\\IT CAREER JOUNEY\\C-Sharp_Projects\\BaseMath Pro\\BaseMathPro\\BaseMathPro\\obj\\",
+      "outputPath": "C:\\Users\\UNIK\\BaseMathPro\\BaseMathPro\\BaseMathPro\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\UNIK\\AppData\\Roaming\\NuGet\\NuGet.Config",
