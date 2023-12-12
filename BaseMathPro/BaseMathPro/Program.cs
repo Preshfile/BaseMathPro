@@ -608,17 +608,5 @@ namespace BaseMathPro
                 Console.WriteLine("Invalid input. Enter a base between 2 and 16.");
             }
         }
-
-
-
-
-
-
-
-
-
-
-
-
     }
 }
