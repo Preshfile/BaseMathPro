@@ -1,0 +1,14 @@
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-Sharp_Projects\BaseMath Pro\BaseMathPro\BaseMathPro\bin\Debug\net7.0\BaseMathPro.exe
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-Sharp_Projects\BaseMath Pro\BaseMathPro\BaseMathPro\bin\Debug\net7.0\BaseMathPro.deps.json
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-Sharp_Projects\BaseMath Pro\BaseMathPro\BaseMathPro\bin\Debug\net7.0\BaseMathPro.runtimeconfig.json
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-Sharp_Projects\BaseMath Pro\BaseMathPro\BaseMathPro\bin\Debug\net7.0\BaseMathPro.dll
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-Sharp_Projects\BaseMath Pro\BaseMathPro\BaseMathPro\bin\Debug\net7.0\BaseMathPro.pdb
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-Sharp_Projects\BaseMath Pro\BaseMathPro\BaseMathPro\obj\Debug\net7.0\BaseMathPro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-Sharp_Projects\BaseMath Pro\BaseMathPro\BaseMathPro\obj\Debug\net7.0\BaseMathPro.AssemblyInfoInputs.cache
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-Sharp_Projects\BaseMath Pro\BaseMathPro\BaseMathPro\obj\Debug\net7.0\BaseMathPro.AssemblyInfo.cs
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-Sharp_Projects\BaseMath Pro\BaseMathPro\BaseMathPro\obj\Debug\net7.0\BaseMathPro.csproj.CoreCompileInputs.cache
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-Sharp_Projects\BaseMath Pro\BaseMathPro\BaseMathPro\obj\Debug\net7.0\BaseMathPro.dll
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-Sharp_Projects\BaseMath Pro\BaseMathPro\BaseMathPro\obj\Debug\net7.0\refint\BaseMathPro.dll
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-Sharp_Projects\BaseMath Pro\BaseMathPro\BaseMathPro\obj\Debug\net7.0\BaseMathPro.pdb
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-Sharp_Projects\BaseMath Pro\BaseMathPro\BaseMathPro\obj\Debug\net7.0\BaseMathPro.genruntimeconfig.cache
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-Sharp_Projects\BaseMath Pro\BaseMathPro\BaseMathPro\obj\Debug\net7.0\ref\BaseMathPro.dll
